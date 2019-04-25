@@ -1,3 +1,23 @@
+# Graphics not added to repository
+public/gfx/Dungeon Crawl Stone Soup Full
+public/gfx/Entry_Casper_Nilsson
+public/gfx/expansion_pack-0.04
+public/gfx/ItemsAndEffects
+public/gfx/LPC sprites submission
+public/gfx/lpc_entry
+public/gfx/submission_daneeklu
+public/gfx/2019-04-15_gameScreen.png
+public/gfx/2019-04-15_gameScreenDialog.png
+public/gfx/2019-04-15_gameScreenMockup.svg
+public/gfx/decorative-border-2.jpg
+public/gfx/decorative-border.jpg
+public/gfx/hallwayReference.png
+public/gfx/items.png
+public/gfx/screenGrab-2019_04_01.png
+
+#DS_Store
+*.DS_Store
+
 # Logs
 logs
 *.log

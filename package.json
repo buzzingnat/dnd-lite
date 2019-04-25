@@ -1,0 +1,26 @@
+{
+  "name": "dnd-lite",
+  "version": "1.0.0",
+  "description": "Rogue-like exploration game",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "eslintify": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-source-map-support": "^2.0.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.1",
+    "source-map-support": "^0.5.12",
+    "watchify": "^3.11.0"
+  },
+  "author": "Hillary Spratt",
+  "license": "MIT"
+}
